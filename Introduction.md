@@ -86,17 +86,17 @@
 
 ### **Frequency of Operation in RFID System:**
 
-    + LF(Low Frequency)
-        + 125 kHz or 134 kHz
-        + Range: upto 10 cm
-  
-    + HF(High Frequency)
-        + 13.56 MHz
-        + Range: upto 1 m 
++ LF(Low Frequency)
+   + 125 kHz or 134 kHz
+   + Range: upto 10 cm
 
-    + UHF(Ultra High Frequency)
-        + 860-960 MHz
-        + Range: 10-15 m
++ HF(High Frequency)
+   + 13.56 MHz
+   + Range: upto 1 m 
+
++ UHF(Ultra High Frequency)
+   + 860-960 MHz
+   + Range: 10-15 m
 
 + This frequency range will vary from mcountry to country but majority of countries used to follow this frequencies.
 
